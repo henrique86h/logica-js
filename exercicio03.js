@@ -3,7 +3,7 @@
 let inicio = 7
 let fim = 25
 
-while(inicio < fim){
+while(inicio < fim - 1){
     inicio++
     console.log(inicio)
 }
